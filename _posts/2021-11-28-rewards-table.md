@@ -8,4 +8,4 @@ category: Reward points comparison
 | Program | Point value |
 | ----------- | ----------- |
 | Fetch | Title |
-| AMC | Text |
+| AMC Theater | 0.1 cents |
